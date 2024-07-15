@@ -14,6 +14,8 @@ O projeto consiste nas seguintes etapas:
 - Utilizar o capítulo 6 do livro "Projeto Digital e Arquitetura de Computadores" de David Money Harris e Sarah L. Harris, que cobre a arquitetura (conjunto de instruções) do processador MIPS.
 - Utilizar o capítulo 7 do livro "Projeto Digital e Arquitetura de Computadores" de David Money Harris e Sarah L. Harris, que cobre a microarquitetura MIPS. Este capítulo fornecerá a base teórica necessária para entender como cada instrução MIPS funciona.
 
+![image](https://github.com/user-attachments/assets/cc94d693-6a4a-40ad-ad42-a8e778f3cd04)
+
 ## Seleção do programa a ser executado:
 - [x] (Fátima e Bianca) - Escrever um programa simples em alto nível (python, C) que contenha pelo menos uma função, condicionais (if, etc) e que esteja alinhado com a temática da equipe.
 - [ ] (Bianca) - Escolher uma função específica que o microprocessador MIPS será capaz de executar. Esta função deve ser composta por um conjunto de instruções MIPS (adaptar o código para Assembly).
