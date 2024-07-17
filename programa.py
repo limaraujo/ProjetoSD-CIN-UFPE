@@ -11,7 +11,7 @@ memoria = {
     "C1":     0, 
     "C2":     0, 
     "C3":     0, 
-    "null":    0,
+    "null":   0,
     "Branco": 0,
 }
 
