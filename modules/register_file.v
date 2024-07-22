@@ -4,7 +4,7 @@ module RegisterFile (
     input wire [4:0] a1,        // Address of the first register to read
     input wire [4:0] a2,        // Address of the second register to read
     input wire [4:0] a3,        // Address of the register to write
-    input wire [31:0] wd3,      // Data to write
+    input wire [31:0] wd3,      // Data to write (output read_data do modulo data_memory)
     output wire [31:0] rd1,     // Data from the first register
     output wire [31:0] rd2      // Data from the second register
 );

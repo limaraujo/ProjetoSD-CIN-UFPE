@@ -1,4 +1,4 @@
-module PC (
+module PCPlus4 (
     input wire clk,               // Clock signal
     input wire reset,             // Reset signal
     output reg [31:0] pc          // Current PC value
